@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made to the Hovse of Commons concerning episcopacy by the Lord Viscount Faulkeland.</title>
+            <author>Falkland, Lucius Cary, Viscount, 1610?-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09136</idno>
+            <idno type="STC">Wing F324A</idno>
+            <idno type="STC">ESTC R188032</idno>
+            <idno type="EEBO-CITATION">61297021</idno>
+            <idno type="OCLC">ocm 61297021</idno>
+            <idno type="VID">180574</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180574)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2834:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made to the Hovse of Commons concerning episcopacy by the Lord Viscount Faulkeland.</title>
+                  <author>Falkland, Lucius Cary, Viscount, 1610?-1643.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Walkely,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Episcopacy --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180574:1"/>
+            <pb facs="tcp:180574:1" rendition="simple:additions"/>
+            <p>A SPEECH MADE TO THE HOVSE OF COMMONS CON<g ref="char:EOLhyphen"/>CERNING EPISCOPACY.</p>
+            <p>By the Lord Viſcount <hi>Faulkland.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Thomas Walkely,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:180574:2"/>
+            <pb n="3" facs="tcp:180574:2"/>
+            <head>THE LORD <hi>FAVLKE<g ref="char:EOLhyphen"/>LAND</hi> HIS SPEECH TO THE HOUSE OF COMMONS.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>ASTER SPEAKER,</salute>
+            </opener>
+            <p>he is a great ſtranger in <hi>Iſrael</hi> who knowes not, that this Kingdome hath long laboured under many and great oppreſſions, both in reli<g ref="char:EOLhyphen"/>gion and liberty, and his ac<g ref="char:EOLhyphen"/>quaintance here is not great or his ingenuitie leſſe, who doth not both know and acknow<g ref="char:EOLhyphen"/>ledge that a great, if not a principall cauſe, of both theſe hath beene ſome Biſhops and their adherents.</p>
+            <p>
+               <hi>Maſter Speaker</hi> a little ſearch will ſerve to find them to have beene the deſtruction of unitie under pretence of uniformity to have brought
+<pb n="4" facs="tcp:180574:3"/>
+in ſuperſtition, and ſcandall, under the titles of reverence, and decency: to have defil'd our Church; by adorning our Churches; to have ſlackned the ſtrictneſſe of that union which was formerly betweene us, and thoſe of our religion beyond the ſea, an action as un<g ref="char:EOLhyphen"/>politicke, as ungodly.</p>
+            <p>
+               <hi>Maſter Speaker,</hi> wee ſhall finde them to have Tith'd Mint and Anice, and have left undone the weightier workes of the law, to have beene leſſe eager upon thoſe who damne our Church then upon thoſe, who upon weake conſcience, and perhaps as weake reaſons (the diſlike of ſome commanded garment or ſome uncom<g ref="char:EOLhyphen"/>manded poſture) onely abſtained from it. Nay it hath beene more dangerous for men to goe to ſome neighbours Pariſh, when they had no ſermon in their owne, then to bee obſtinate and perpetuall recuſants, while maſſes have beene ſaid in ſecurity; a conventicle hath beene a crime, and which is yet more, the conforming to ceremonies hath beene more exacted then the conforming to Chriſtianity, and whileſt men for ſcruples have beene undone, for at<g ref="char:EOLhyphen"/>tempts upon <hi>Sodomie</hi> they have onely beene ad<g ref="char:EOLhyphen"/>moniſhed.</p>
+            <p>
+               <hi>Maſter Speaker,</hi> we ſhall find them to have beene like the henin <hi>Eſop,</hi> which laying every day an egge upon ſuch a proportion of barly, her Miſtreſſe increaſing her proportion in hope
+<pb n="5" facs="tcp:180574:3"/>
+ſhee would encreaſe her egges, ſhee grew ſo fat upon that addition, that ſhee never laid more: ſo though at firſt their preaching were the occaſion of their preferment, they after made their preferment, the occaſion of their not preaching.</p>
+            <p>
+               <hi>Maſter Speaker,</hi> we ſhall find them to have reſembled another fable, the dogge in the man<g ref="char:EOLhyphen"/>ger, to have neither preached themſelves, nor employ thoſe that ſhould, nor ſufferd thoſe that would. To have brought in catechiſing one<g ref="char:EOLhyphen"/>ly to thruſt out preaching, cried downe lectures by the name of factions, either becauſe their induſtry in that duty appeared a reproofe to their neglect of it (not unlike to that wee read of him, who in <hi>Nero</hi>'s time and <hi>Tacitus</hi> his ſtory was accuſed, becauſe by his vertue hee did appeare <hi>Exprobrare vitia Principis</hi>) or with in<g ref="char:EOLhyphen"/>tention to have brought in darkeneſſe, that they might the eaſier ſow their tares, while it was night: and by that introduction of igno<g ref="char:EOLhyphen"/>rance, introduce the better that Religion, which accompts it the Mother of devo<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Maſter Speaker</hi> in this they have abuſed his Majeſty, as well as his people, for when hee had with great wiſedome (ſince uſually the children of darkeneſſe are wiſer in their gene<g ref="char:EOLhyphen"/>ration then the children of light; I may gueſſe not without ſome eye upon the moſt politicke
+<pb n="6" facs="tcp:180574:4"/>
+action of the moſt politicke Church) ſilenced on both parts thoſe opinions which have of<g ref="char:EOLhyphen"/>ten tormented the Church and have, and will alway trouble the ſchooles they made uſe of this declaration to tye up one ſide, and let the other looſe, where as they ought either in diſcretion to have beene equally reſtrained, or in juſtice to have beene equally tollerated. And it is obſervable, that that party to which they gave this licence was that, whoſe doctrine though it were not contrary to law, was con<g ref="char:EOLhyphen"/>trary to cuſtome, and for a long while in this Kingdome was, no oftener preached then re<g ref="char:EOLhyphen"/>canted.</p>
+            <p>The truth is <hi>Maſter Speaker,</hi> that as ſome ill Miniſters in our ſtate firſt tooke away our mony from us, and after endeavoured to make our mony not worth the taking, by turning it into braſſe by a kind of <hi>Antiphiloſophers-ſtone:</hi> So theſe men uſed us in the point of preaching, firſt depreſſing it to their power, and next la<g ref="char:EOLhyphen"/>bouring to make it ſuch, as the harme had not beene much, if it had beene depreſſed, the moſt frequent ſubjects even in the moſt ſacred audi<g ref="char:EOLhyphen"/>tories, being the <hi>Jus divinum</hi> of Biſhops and tithes, the ſacredneſſe of the clergie, the ſa<g ref="char:EOLhyphen"/>criledge of impropriations, the demoliſhing of puritaniſme and propriety, the building of the prerogative at <hi>Pauls,</hi> the introduction of ſuch doctrines, as admitting them true, the truth
+<pb n="7" facs="tcp:180574:4"/>
+would not recompence the ſcandall, or of ſuch as were ſo farre falſe, that as Sir <hi>Thomas Moore</hi> ſayes of the caſuiſts, their buſineſſe was not to keepe men from ſinning but to enforme them <hi>Quàm propè ad peccatum ſine peccato liceat ac<g ref="char:EOLhyphen"/>cedere,</hi> ſo it ſeemed their worke was to try how much of a Papiſt might bee brought in without Popery, and to deſtroy as much as they could of the Goſpell, without bringing themſelves into danger of being deſtroyed by the law.</p>
+            <p>
+               <hi>Maſter Speaker,</hi> to goe yet further, ſome of them have ſo induſtriouſly laboured to deduce themſelves from <hi>Rome,</hi> that they have given great ſuſpition, that in gratitude they deſire to returne thither, or at leaſt to meete it halfe way, ſome have evidently labourd to bring, in an <hi>Engliſh,</hi> though not a <hi>Roman</hi> popery. I meane not onely the outſide and dreſſe of it, but equal<g ref="char:EOLhyphen"/>ly abſolute a blind dependance of the peo<g ref="char:EOLhyphen"/>ple upon the clergie, and of the clergie upon themſelves, and have oppoſed the papacy be<g ref="char:EOLhyphen"/>yond the ſea, that they might ſettle one beyond the water. Nay common fame is more then ordinarily falſe, if none of them have found a way to reconcile the opinions of <hi>Rome,</hi> to the preferments of <hi>England;</hi> bee ſo abſolutely di<g ref="char:EOLhyphen"/>rectly and cordially Papiſt, that it is all, that fifteene hundred pounds a yeare can doe to keepe them from confeſſing it.</p>
+            <p>
+               <hi>Maſter Speaker</hi> I come now to ſpeake of our liber<g ref="char:EOLhyphen"/>ties,
+<pb n="8" facs="tcp:180574:5"/>
+and conſidering the great intereſt theſe men have had in our common Maſter, and conſidering how great a good to us they might have made that intereſt in him, if they would have uſed it to have informed him of our gene<g ref="char:EOLhyphen"/>rall ſufferings; and conſidering how little of their freedome of Speech at <hi>Whitehall,</hi> might have ſaved us a great deale of the uſe wee have now of it in the Parliament houſe, their not doing this alone were occaſion enough for us to accuſe them, as the betrayers though not as the deſtroyers of our rights and liberties. Though I confeſſe if they had beene onely ſilent in this particular I had beene ſilent too: But alas they whoſe anceſtors in the darkeſt times excommunicated the breakers of <hi>Magna charta;</hi> did now by themſelves and their adhe<g ref="char:EOLhyphen"/>rents both write, preach, plot, and act againſt it, by encouraging Doctor <hi>Beale,</hi> by preferring Doctor <hi>Mannering,</hi> appearing forward for mo<g ref="char:EOLhyphen"/>nopolies and ſhip-mony: and if any were ſlow and backeward to comply, blaſting both them and their preferment, with utmoſt expreſſion of their hatred, the title of Puritans.</p>
+            <p>
+               <hi>Maſter Speaker,</hi> wee ſhall find ſome of them to have labourd to exclude both all perſons, and all cauſes of the clergie from the ordinary jurisdiction of the temporall magiſtrate, and by hindring prohibitions (firſt by apparant power againſt the Iudges, and after by ſecret agree<g ref="char:EOLhyphen"/>ments
+<pb n="9" facs="tcp:180574:5"/>
+with them) to have taken away the onely legall bound to their arbitrary power, and made as it were a conqueſt upon the common law of the Land, which is our common inhe<g ref="char:EOLhyphen"/>ritance, and after made uſe of that power to turne their brethren out of their freeholds, for not doing that which no law of man required of them to doe, and which (in their opinions) the law of God required of them not to doe. Wee ſhall find them in generall to have encou<g ref="char:EOLhyphen"/>raged all the clergie to ſuites; and to have brought all ſuites to the Councell-table that having all power in Eccleſiaſticall matters, they laboured for equall power in temporall, &amp; to diſpoſe as well of every office as of every benefice, and loſt the clergie, much revenew and much reverence, (whereof the laſt is never gi<g ref="char:EOLhyphen"/>ven when it is ſo asked) by encouraging them indiſcreetly to exact more of both then was due, ſo that indeed the gaine of their greatneſſe extended but to a few of that order, though the envy extended upon all.</p>
+            <p>Wee ſhall find of them to have both kindled &amp; blowne the common fire of both nations, to have both ſent and maintained that booke, of which the authour no doubt hath long ſince wiſh'd with <hi>Nero; Utinam neſciſſem literas,</hi> and of which more then one Kingdome hath cauſe to wiſh, that when hee writ that, hee had rather burnd a library, though of the value of <hi>Ptolomie</hi>'s.
+<pb n="10" facs="tcp:180574:6"/>
+Wee ſhall find them to have beene the firſt and principall cauſe of the breach, I will not ſay of, but ſince the pacification at <hi>Barwicke.</hi> Wee ſhall find them to have beene the almoſt ſole abettors of my Lord of <hi>Strafford,</hi> whileſt hee was practiſing upon another Kingdome, that manner of government which hee inten<g ref="char:EOLhyphen"/>ded to ſettle in this, where hee committed ſo many, ſo mighty, and ſo manifeſt enormities and oppreſſions as the like have not beene com<g ref="char:EOLhyphen"/>mitted by any Governour in any government ſince <hi>Verres</hi> left <hi>Sicily.</hi> And after they had called him over from being deputie of <hi>Ireland</hi> to bee in a manner deputie of <hi>England,</hi> (all things here, being govern'd by a <hi>Juntillo,</hi> and that <hi>Juntillo</hi> govern'd by him) to have aſſiſted him in the giving of ſuch Councells, and the purſuing of ſuch courſes, as it is a hard and meaſuring caſt, whether they were more un<g ref="char:EOLhyphen"/>wiſe, more unjuſt, or more unfortunate, and which had infallibly beene our deſtruction if by the grace of God their ſhare had not beene as ſmall in the ſubtilty of Serpents as in the in<g ref="char:EOLhyphen"/>nocency of doves.</p>
+            <p>
+               <hi>Maſter Speaker,</hi> I have repreſented no ſmall quantitie, and no meane degree of guilt, and truly I beleeve, that wee ſhall make no little complement to thoſe, and no little apologie for thoſe to whom this charge belongs, if wee ſhall lay the faults of the men upon the
+<pb n="11" facs="tcp:180574:6"/>
+order of the Biſhops, upon the <hi>Epiſcopacy.</hi> I wiſh wee may diſtinguiſh betweene thoſe, who have beene carried away with the ſtreame, and thoſe who have beene the ſtreame that carry'd them; betweene thoſe, whoſe proper and natu<g ref="char:EOLhyphen"/>rall motion was towards our ruine and deſtru<g ref="char:EOLhyphen"/>ction, and thoſe who have beene whirl'd about to it contrary to their naturall motion by the force and ſwinge of ſuperiour <hi>Orbes,</hi> and as I wiſh, wee may diſtinguiſh betweene the more and leſſe guiltie; ſo I yet more wiſh, wee may diſtinguiſh betweene the guiltie and the inno<g ref="char:EOLhyphen"/>cent.</p>
+            <p>
+               <hi>Maſter Speaker,</hi> I doubt if wee conſider, that if not the firſt Planters yet the firſt Spreaders of Chriſtianity, and the firſt and chiefe Defen<g ref="char:EOLhyphen"/>ders of Chriſtianity againſt hereſies within and paganiſme without, both with their inke and with their bloud; and the maine conducers to the reſurrection of Chriſtianity: (at leaſt) here in the reformation (and wee owe the light of the Goſpell wee now enjoy to the fire they then endur'd for it) were all Biſhops: and that even now in the greateſt perfection of that order, there are yet ſome who have conduc'd in no<g ref="char:EOLhyphen"/>thing to our late innovations, but their in ſilence; ſome who in an unexpected and mighty place and power have expreſſed an equall modera<g ref="char:EOLhyphen"/>tion and humility, being neither ambitious be<g ref="char:EOLhyphen"/>fore, nor proud after, either of the Croſiers
+<pb n="12" facs="tcp:180574:7"/>
+ſtaffe or white ſtaffe: ſome who have beene learn'd oppoſers of Popery, and zealous op<g ref="char:EOLhyphen"/>poſers of <hi>Arminianiſme,</hi> betweene whom and their inferiour clergie in frequency of preaching hath beene no diſtinction, whoſe lives are un<g ref="char:EOLhyphen"/>touched, not onely by guilt, but by malice; ſcarce to bee equall'd by thoſe of any condi<g ref="char:EOLhyphen"/>tion, or to bee excell'd by thoſe in any Calen<g ref="char:EOLhyphen"/>dar. I doubt not I ſay, but if wee conſider this, this conſideration will bring forth this con<g ref="char:EOLhyphen"/>cluſion, that Biſhops may bee good men, and let us give but good men good rules, wee ſhall have both good governours and good times.</p>
+            <p>
+               <hi>Maſter Speaker,</hi> I am content to take away all thoſe things from them, which to any conſi<g ref="char:EOLhyphen"/>derable degree of probability may againe be<g ref="char:EOLhyphen"/>get the like miſchiefs, if they bee not taken away. If their temporall titles power and em<g ref="char:EOLhyphen"/>ployment appeare likely to diſtract them from the care of, or make them looke downe with contempt upon their Spirituall duty, and that the too great diſtance betweene them, and thoſe they governe will hinder the free and fit re<g ref="char:EOLhyphen"/>courſe of their inferiours to them; and occaſion inſolence from them to their inferiours. Let that be conſidered, and car'd for, I am ſure nei<g ref="char:EOLhyphen"/>ther their Lordſhips, their Judging of tithes wills and marriages, no, nor their voices in Par<g ref="char:EOLhyphen"/>liaments are <hi>Jure divino;</hi> and I am as ſure, that theſe titles and this power, are not neceſſary to
+<pb n="13" facs="tcp:180574:7"/>
+their authority, as appeares by the little they have had with us by them, and the much that others have had without them.</p>
+            <p>If their revenew ſhall appeare likely to produce the ſame effects (for it hath beene an<g ref="char:EOLhyphen"/>ciently obſerv'd that <hi>Religio peperit divitias, &amp; Filia devoravit matrem;</hi>) Let ſo much of that, as was in all probability, intended for an at<g ref="char:EOLhyphen"/>tendant upon their temporall dignities, waite upon them out of the doores. Let us onely take care to leave them ſuch proportions, as may ſerve in ſome good degree to the dignity of learning and the encouragement of ſtudents, and let us not inuert that of <hi>Jeroboam,</hi> and as hee made the meaneſt of the people Prieſts, make the higheſt of the Prieſts, the meaneſt of the people.</p>
+            <p>If it bee feared, that they will againe em<g ref="char:EOLhyphen"/>ploy ſome of our Lawes, with a ſeverity beyond the intention of thoſe Lawes a<g ref="char:EOLhyphen"/>gainſt ſome of their weaker Bretheren, that wee may bee ſure to take away that power, let us take away thoſe Lawes, and let no ce<g ref="char:EOLhyphen"/>remonies which any number counts unlaw<g ref="char:EOLhyphen"/>full, and no man counts neceſſary (againſt the rules of <hi>Policy</hi> and Saint <hi>Paul</hi>) bee impoſed upon them. Let us conſider that part of the rule, they have hitherto gone by, that is ſuch canons of their owne making as are not confirm'd by Parliament have beene, or no doubt ſhort<g ref="char:EOLhyphen"/>ly
+<pb n="14" facs="tcp:180574:8"/>
+will bee by Parliament taken away, that the other part of the rule (ſuch canons as were here received before the reformation and not contrary to any law) is too doubtfull to bee a fit rule, exacting an exact knowledge of the canon law, of the common law, of the ſtatute law knowledges, which thoſe who are thus to governe have not, and it is ſcarce fit they ſhould have. Since therefore wee are to make new rules, and ſhall no doubt make thoſe new rules, ſtrict rules; and bee infallibly certaine of a trienniall Parliament to ſee thoſe rules obſerv'd as ſtrictly as they are made, and to en<g ref="char:EOLhyphen"/>creaſe or change them upon all occaſions, wee ſhall have no reaſon to feare any innovation from their tyranny, or to doubt any defect in the diſcharge of their duty. I am confident, they will not dare either ordaine, ſuſpend, ſi<g ref="char:EOLhyphen"/>lence, excommunicate, or deprive otherwiſe, then wee would have them. And if this bee beleeved, I am as confident, wee ſhall not thinke it fit to aboliſh upon a few dayes debate an or<g ref="char:EOLhyphen"/>der, which hath laſted (as appeares by ſtory) in moſt Churches theſe ſixteene hundred yeares, and in all from Chriſt to <hi>Calvin,</hi> or in an inſtant change the whole face of the Church, like the ſcene of a Maske.</p>
+            <p>
+               <hi>Maſter Speaker,</hi> I doe not beleeve them to bee <hi>Jure divino,</hi> nay I beleeve them not to bee <hi>Jure divino,</hi> but neither doe I beleeve them to
+<pb n="15" facs="tcp:180574:8"/>
+bee <hi>Injuria humana.</hi> I neither conſider them as neceſſary, nor as unlawfull, but as convenient or inconvenient. But ſince all great mutations in government are dangerous, (even where what is introduc'd by that mutation is ſuch as would have beene very profitable upon a primary foundation) and ſince the greateſt danger of mutations is, that all the dangers and inconveniences they may bring are not to bee foreſeene, and ſince no wiſe man will undergoe great danger, but for great neceſſity; my opi<g ref="char:EOLhyphen"/>nion is, that wee ſhould not roote up this an<g ref="char:EOLhyphen"/>cient tree as dead as it appeares, till wee have tried whether by this or the like lopping of the branches, the ſappe which was unable to feed the whole, may not ſerve to make what is left both grow and flouriſh. And certainely, if wee may at once take away both the inconveniences of Biſhops, and the inconvenience of no Biſhops, that is of an almoſt univerſall mutation; this courſe can onely bee oppoſed by thoſe, who love mutation for mutations ſake.</p>
+            <p>
+               <hi>Maſter Speaker,</hi> to bee ſhort (as I have reaſon to bee after having beene ſo long,) this triall may bee ſuddenly made, let us commit as much of the Miniſters remonſtrance, as wee have reade, that thoſe heads both of abuſes and grie<g ref="char:EOLhyphen"/>vances which are there fully collected, may bee marſhal'd and ordered for our debate; if upon that debate it ſhall appeare, that thoſe
+<pb n="16" facs="tcp:180574:9" rendition="simple:additions"/>
+may bee taken away and yet the order ſtand, wee ſhall not need to commit the <hi>London</hi> pe<g ref="char:EOLhyphen"/>tition at all: for the cauſe of it will bee ended, if it ſhall appeare, that the abolition of the one cannot bee, but by the deſtruction of the other, then let us not commit the <hi>London-petition,</hi> but let us grant it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
